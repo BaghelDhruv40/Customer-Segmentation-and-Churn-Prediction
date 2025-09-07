@@ -2,3 +2,4 @@
 .venv
 static/
 temp/
+KMeans_trained_model
